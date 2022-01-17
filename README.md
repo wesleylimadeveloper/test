@@ -1,1 +1,1 @@
-#Teste técnico JRM - React Native# :iphone:
+# Teste técnico JRM - React Native :iphone:
